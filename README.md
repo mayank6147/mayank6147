@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayank6147 
-- 👀 I’m interested in wev development 
-- 🌱 I’m currently learning css and JavaScript
+- 👀 I’m Java Developer.
+- 🌱 I’m currently learning Spring Boot 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... twitter : @mayank92668474 , 
 
